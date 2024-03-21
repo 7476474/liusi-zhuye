@@ -33,13 +33,19 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://img.zcool.cn/community/01fj6vsbpqpceh7ieirq9p3734.jpg?x-oss-process=image/auto-orient,1/resize,m_lfit,w_1280,limit_1/sharpen,100/quality,q_100",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://n.sinaimg.cn/sinakd20230127s/703/w2048h1055/20230127/1eaf-f3053eff6ea817560a5f77a31ff286e6.jpg",
+      "url": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://img.zcool.cn/community/01bea75c66323ca801203d22fb04a7.jpg@3000w_1l_0o_100sh.jpg",
       "url": "",
       "width": null,
       "height": null
